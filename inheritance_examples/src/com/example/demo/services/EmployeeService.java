@@ -12,9 +12,6 @@ public class EmployeeService {
 
 	 }
 	 
-//	 for (Employee empSkill:empList) {
-//			System.out.println(empSkill);
-//		}
 
  }
 	
