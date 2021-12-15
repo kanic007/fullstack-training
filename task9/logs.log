@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:56:25</date>
+  <millis>1639542385879</millis>
+  <sequence>0</sequence>
+  <logger>com.examples.model.Application</logger>
+  <level>INFO</level>
+  <class>com.examples.model.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>100,kanic,814636533,kanic13@gmail.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:04:34</date>
+  <millis>1639542874011</millis>
+  <sequence>0</sequence>
+  <logger>com.examples.model.Application</logger>
+  <level>INFO</level>
+  <class>com.examples.model.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>100,kanic,254536533,kanic11@gmail.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:04:37</date>
+  <millis>1639542877092</millis>
+  <sequence>0</sequence>
+  <logger>com.examples.model.Application</logger>
+  <level>INFO</level>
+  <class>com.examples.model.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>100,kanic,254536533,kanic11@gmail.com</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:07:00</date>
+  <millis>1639543020819</millis>
+  <sequence>0</sequence>
+  <logger>com.examples.model.Application</logger>
+  <level>INFO</level>
+  <class>com.examples.model.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>100,kanic,254536533,kanic11@gmail.com</message>
+</record>
+</log>
+Dec 15, 2021 10:13:02 AM com.examples.model.Application main
+INFO: 100,kanic,254536533,kanic11@gmail.com
+Dec 15, 2021 10:21:11 AM com.examples.model.Application main
+WARNING: email should have @ or .com or .in
+Dec 15, 2021 10:35:35 AM com.examples.model.Application main
+INFO: 100,kanic,254536533,kanic13@gmail.com
+Dec 15, 2021 10:35:35 AM com.examples.model.Application main
+INFO: 0,null,0,kanic13@gmail.com
+Dec 15, 2021 10:37:25 AM com.examples.model.Application main
+INFO: 100,kanic,254536533,kanic13@gmail.com
+Dec 15, 2021 10:37:25 AM com.examples.model.Application main
+INFO: 125,selva,100,kanic13@gmail.com
+Dec 15, 2021 10:46:38 AM com.examples.model.Application main
+INFO: 100,kanic,254536533,kanic13@gmail.com
+Dec 15, 2021 10:46:39 AM com.examples.model.Application main
+INFO: 125,selva,100,kanic13@gmail.com
+Dec 15, 2021 10:47:44 AM com.examples.model.Application main
+INFO: kanic,254536533,kanic13@gmail.com
+Dec 15, 2021 10:47:44 AM com.examples.model.Application main
+INFO: selva,100,kanic13@gmail.com
