@@ -1,0 +1,226 @@
+Dec 14, 2021 2:12:30 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:12:30 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:12:30 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:12:44 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:12:44 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:12:44 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:13:37 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:13:37 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:13:37 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:13:41 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:13:41 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:13:41 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:15:53 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:15:53 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:15:53 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:18:03 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:18:03 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:18:03 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:18:21 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:18:21 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:18:21 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:18:40 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:18:40 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:18:40 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:18:47 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:18:47 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:18:47 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:19:26 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:19:26 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:19:26 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:22:15 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:22:15 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:22:15 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:22:28 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:22:28 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:22:28 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+Dec 14, 2021 2:23:14 PM com.example.demo.Application main
+SEVERE: 1-sever message
+Dec 14, 2021 2:23:14 PM com.example.demo.Application main
+WARNING: 2-warining message
+Dec 14, 2021 2:23:14 PM com.example.demo.Application main
+INFO: 3-java.util.logger configured successfully
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:24:07</date>
+  <millis>1639472047137</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1-sever message</message>
+</record>
+<record>
+  <date>2021-12-14T14:24:07</date>
+  <millis>1639472047160</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2-warining message</message>
+</record>
+<record>
+  <date>2021-12-14T14:24:07</date>
+  <millis>1639472047160</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3-java.util.logger configured successfully</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:28:46</date>
+  <millis>1639472326871</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1-sever message</message>
+</record>
+<record>
+  <date>2021-12-14T14:28:46</date>
+  <millis>1639472326896</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2-warining message</message>
+</record>
+<record>
+  <date>2021-12-14T14:28:46</date>
+  <millis>1639472326896</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3-java.util.logger configured successfully</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:43:20</date>
+  <millis>1639473200005</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1-sever message</message>
+</record>
+<record>
+  <date>2021-12-14T14:43:20</date>
+  <millis>1639473200028</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2-warining message</message>
+</record>
+<record>
+  <date>2021-12-14T14:43:20</date>
+  <millis>1639473200029</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3-java.util.logger configured successfully</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:45:25</date>
+  <millis>1639473325644</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1-sever message</message>
+</record>
+<record>
+  <date>2021-12-14T14:45:25</date>
+  <millis>1639473325666</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2-warining message</message>
+</record>
+<record>
+  <date>2021-12-14T14:45:25</date>
+  <millis>1639473325667</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3-java.util.logger configured successfully</message>
+</record>
+</log>
