@@ -17,7 +17,7 @@ public class Application {
 		Student keerthana = new Student(05,"Keerthana",94);
 	
 		
-//		String rakesh = new String("Rakesh");
+     //	ObjectString rakesh = new String("Rakesh");
 		
 		
 		studList.add(anand);
@@ -25,8 +25,8 @@ public class Application {
 		studList.add(cavin);
 		studList.add(faraz);
 		studList.add(keerthana);
-		// CAnnot add othe than Student object to the studList since its a
-		//typesafe collection =. its collection of studen			
+		// CAnnot add other than Student object to the studList since its a
+		//typeSafe collection =. its collection of student			
 		//studList.add(Rakesh);
 		
 		
@@ -35,7 +35,27 @@ public class Application {
 		for(Student eachSudent:studList) {
 			System.out.println(eachSudent);
 		}
-
+	//	 downcasting object[] to student[]
+    //   to Array() method return type is object[]	
+	//   but we require a student[ array , so we are doing down casting
+  //		Student[] list =(Student[]) studList.toArray();
+		
+		Object[] list =studList.toArray();
+		
+		for(Object obj:list) {
+			Student stud =(Student)obj;
+			System.out.println(stud.getStudentName());
+		}
+//		Student[] studentlist = {
+//				new Student(201,"Deepa",78),
+//				new Student(201,"Deepa",78),
+//		};
+//		
+////		List<Student>
+//		System.out.println(list);
+		
+		
+		
 	}
 
 }

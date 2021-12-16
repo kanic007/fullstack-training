@@ -30,12 +30,12 @@ public class StudentService implements StudentRepository<Student> {
 	}
 
 	@Override
-	public Student updateMark(Student object, double revisedMark) {
+	public Student update(Student object, double revisedValue) {
 	
 		
 		int idxPos = studList.indexOf(object);
 		Student foundStudent = studList.get(idxPos);
-		foundStudent.setMarkScored(revisedMark);
+		foundStudent.setMarkScored(revisedValue);
 	//	return foundStudent;
 	return studList.set(idxPos,foundStudent);
 		

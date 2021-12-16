@@ -51,7 +51,7 @@ public class CrudApplication {
 			throw new RuntimeException("Student doesnot Exist");
 		}
 
-		Student updated = repo.updateMark(anand, 10);
+		Object updated = repo.update(anand, 10);
 		System.out.println(updated);
 		
 		List<Student> top3List = repo.getTopThreeByMark();

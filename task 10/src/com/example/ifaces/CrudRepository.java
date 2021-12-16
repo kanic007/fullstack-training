@@ -1,13 +1,14 @@
 package com.example.ifaces;
 
-import com.example.model.*;
 import java.util.*;
+
+import com.example.Doctor;
 
 public interface CrudRepository<T> {
 
 	public boolean add(T object);
-	public List<T> findAll();
-	public T update(T object , double revisedValue);
+	public ArrayList<Doctor> findAll();
+	public T update(T object , String revisedValue);
 	public boolean remove(T object);
 	
 	
